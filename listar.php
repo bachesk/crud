@@ -1,4 +1,5 @@
-<img src="img/negocio.png"><h1>Negócios</h1>
+<img src="img/negocio.png">
+<h1>Negócios</h1>
 <?php
 	$sql = "SELECT * FROM negocio";
 	$res = $conn->query($sql);
